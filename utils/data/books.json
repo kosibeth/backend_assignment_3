@@ -1,0 +1,32 @@
+[
+    {
+      "id": 1,
+      "title": "ochestra of minorities",
+      "author": "Chigozie Obioma",
+      "format": "pdf"
+    },
+    {
+      "id": 2,
+      "title": "the Alchemist",
+      "author": "Paulo Choelho",
+      "format": "epub"
+    },
+    {
+      "id": 3,
+      "title": "nearly all the men in lagos are mad",
+      "author": "Damilare kuku",
+      "format": "pdf"
+    },
+    {
+      "id": 4,
+      "title": "metamophosis",
+      "author": "Franz Kafka",
+      "format": "txt"
+    },
+    {
+      "id": 5,
+      "title": "the book thief",
+      "author": "Markus Zusak",
+      "format": "pdf"
+    }
+  ]
